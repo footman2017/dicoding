@@ -1,1 +1,3 @@
 notes-app-back-end/node_modules/
+notes-app-back-end/.env
+notes-app-back-end/.prod.env
