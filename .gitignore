@@ -1,3 +1,7 @@
 notes-app-back-end/node_modules/
 notes-app-back-end/.env
 notes-app-back-end/.prod.env
+open-music-api/node_modules/
+open-music-api/package-lock.json
+open-music-api/.env
+open-music-api/.prod.env
